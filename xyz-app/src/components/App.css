@@ -1,0 +1,69 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.login-section {
+    width: 50%;
+    display: block;
+    margin: auto auto;
+}
+
+.login-input{
+    text-align: center;
+}
+
+.login-button{
+    position: relative;
+    left: 5px;
+}
+
+.text-box {
+    position: relative;
+    left: 3px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.icon-container {
+	margin: 20px auto;
+	width: 200px;
+	height: 200px;
+	border-radius: 20%;
+	display: flex;
+	justify-content: center;
+	align-items: flex-end;
+	background-color: #1E90FF;
+	position: relative;
+}
+
+.bottom {
+    position: absolute;
+    bottom: 0px;
+    vertical-align: bottom;
+    text-align: left;
+}
+
+.mandatory {
+    color: red;
+}
