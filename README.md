@@ -12,8 +12,7 @@ web app -> localhost port 3000
 
 No login Authentication is implemented.
 You can use any of the 2 following usernames for login:
-xyzAdmin
-user001
+xyzAdmin or user001
 
 There is no authentication so using any other username will still work.
 
